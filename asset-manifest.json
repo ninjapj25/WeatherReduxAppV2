@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/WeatherReduxAppV2/static/css/main.5c79eb02.chunk.css",
+    "main.js": "/WeatherReduxAppV2/static/js/main.5b1a072b.chunk.js",
+    "main.js.map": "/WeatherReduxAppV2/static/js/main.5b1a072b.chunk.js.map",
+    "runtime-main.js": "/WeatherReduxAppV2/static/js/runtime-main.8bd876df.js",
+    "runtime-main.js.map": "/WeatherReduxAppV2/static/js/runtime-main.8bd876df.js.map",
+    "static/js/2.cb47ea4c.chunk.js": "/WeatherReduxAppV2/static/js/2.cb47ea4c.chunk.js",
+    "static/js/2.cb47ea4c.chunk.js.map": "/WeatherReduxAppV2/static/js/2.cb47ea4c.chunk.js.map",
+    "index.html": "/WeatherReduxAppV2/index.html",
+    "static/css/main.5c79eb02.chunk.css.map": "/WeatherReduxAppV2/static/css/main.5c79eb02.chunk.css.map",
+    "static/js/2.cb47ea4c.chunk.js.LICENSE.txt": "/WeatherReduxAppV2/static/js/2.cb47ea4c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8bd876df.js",
+    "static/js/2.cb47ea4c.chunk.js",
+    "static/css/main.5c79eb02.chunk.css",
+    "static/js/main.5b1a072b.chunk.js"
+  ]
+}
